@@ -1,0 +1,33 @@
+* {
+    background-color: rgb(71, 103, 231);
+}
+.one {
+    color: rgb(28, 13, 11);
+    font-size: 34px;
+}
+input[type="text"] {
+    background-color: rgb(71, 103, 231);
+    color: black;
+    border-color: #ccc;
+}
+input[type="text"]::placeholder {
+    color: black;
+}
+a {
+    color: black;
+}
+a:hover{
+    color: white;
+}
+.two {
+    font-size: 24px;
+    text-align: center;
+}
+.three {
+    font-size: 80px;
+}
+.four {
+    font-size: 50px;
+}
+  
+  
